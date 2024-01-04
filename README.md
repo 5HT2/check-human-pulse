@@ -2,6 +2,12 @@
 
 Check your pulse quickly & easily on a CLI, by pressing any key for each pulse you feel.
 
+While counting:
+![](./.github/IMAGES/started.png)
+
+Once finished:
+![](./.github/IMAGES/finished.png)
+
 ### Usage
 
 It will wait until you press any key to start counting, and automatically stop counting after 60 seconds by default, or after 200 beats.
