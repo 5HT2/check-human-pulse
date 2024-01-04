@@ -17,6 +17,7 @@ You can also press <kbd>Enter</kbd> to finish counting early.
 You can reasonably get a fairly accurate pulse in only ~15-25 seconds if you're confident in your ability to feel it, it's just a learned skill which you can get a feel for.
 
 ```
+# Build and run
 make
 ./check-human-pulse
 
