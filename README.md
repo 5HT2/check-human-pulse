@@ -21,7 +21,7 @@ make
 ### TODO
 
 - [ ] Fix progress bars breaking when waiting too long? Idk what happened here, it worked earlier
-- [ ] Fix terminal newlines and so on being weird after the program closes, requiring you to refresh your prompt / rc
+- [x] <s>Fix terminal newlines and so on being weird after the program closes, requiring you to refresh your prompt / rc</s>
 - [ ] Uhhh display current BPM, maybe nicer displays? I would like it to be more compact and visually appealing
 - [ ] Maybe some kind of fun meter displaying a range of what your current BPM means, maybe view historic results?
 - [ ] Automatically saving results to a spreadsheet or some kind of way to save and export them would be cool
